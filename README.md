@@ -46,5 +46,5 @@ Read the full documentation on our [wiki pages] (https://github.com/maroselo/vis
 
 - [Maroš Šeleng] (https://github.com/maroselo) *(position)*
 - [Jaroslav Bončo] (https://github.com/jarkojefamozny) *(position)*
-- [Jan Grundman] (https://github.com/jangrundmann) *(position)*
+- [Jan Grundmann] (https://github.com/jangrundmann) *(position)*
 
